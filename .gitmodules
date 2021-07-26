@@ -1,0 +1,6 @@
+[submodule "TwitchBOT_server_and_bot"]
+	path = TwitchBOT_server_and_bot
+	url = https://github.com/HiImRussel/TwitchBOT_server_and_bot
+[submodule "twitchBOT_Panel"]
+	path = twitchBOT_Panel
+	url = https://github.com/HiImRussel/twitchBOT_Panel
